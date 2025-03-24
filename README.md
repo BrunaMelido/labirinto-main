@@ -1,2 +1,3 @@
-# labirinto-main
-labirinto-main
+Bibliotecas utilizadas:
+Pyamaze
+matplotlib
